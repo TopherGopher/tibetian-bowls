@@ -1,3 +1,6 @@
 [submodule "buzz"]
 	path = buzz
 	url = git@github.com:jaysalvat/buzz.git
+[submodule "raphael"]
+	path = raphael
+	url = git@github.com:DmitryBaranovskiy/raphael.git
